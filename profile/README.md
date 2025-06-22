@@ -5,7 +5,7 @@
 ## :memo: Our Projects
 
 ### 🎵 Syncra Engine
-**The Powerful Open Source Global Rhythm Game Level Editing Toolkit (POSGRGLET for short. We dare you to pronounce it).**  
+**The Powerful Open Source Global Rhythm Game Level Editing Toolkit (POSGRGLET for short. We dare you to pronounce it) made for power users and rhythm enthusiasts alike..**  
 A feature-rich level editing framework for rhythm games with support for:
 - Multi-difficulty charting
 - Custom event scripting
