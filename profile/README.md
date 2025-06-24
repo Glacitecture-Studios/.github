@@ -22,7 +22,7 @@ Built for developers, mappers, and tinkerers who demand precision and flexibilit
 ### 🌐 rEboot
 **A 2D four-key downscroll rhythm game set inside the digital world of a computer.**  
 Brandish the waveform against your adversaries, experience what was once a thriving civilization, now brought to ashes by corruption, and unlock secrets buried deep within.
-Fast-paced action. A deep story. And a whole lot of binary funk.\
+Fast-paced action. A deep story. And a whole lot of binary funk.
 
 **🚫 This project is closed-source due to it being planned to have online features.**
 
@@ -31,7 +31,7 @@ Fast-paced action. A deep story. And a whole lot of binary funk.\
 ### 🌌 Desolation
 **A 2D exploration-focused RPG set in a vast, alien galaxy that’s just as hostile as it is beautiful.**  
 Wander worlds teeming with the unknown, where every pixel hides a secret and every shadow hungers for you.  
-Designed for those who like their adventures atmospheric, surreal, and a little bit haunting.\
+Designed for those who like their adventures atmospheric, surreal, and a little bit haunting.
 
 **🚫 This project is closed-source due to it being planned to have online features.**
 
