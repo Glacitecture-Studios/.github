@@ -4,6 +4,9 @@
 
 ## :memo: Our Projects
 
+> [!IMPORTANT]
+> Only open-source or source-available works of ours are listed here. Any closed-source or commercial works can be found in our Discord, which is linked at the bottom of this README file.
+
 ### 🎵 Syncra Engine
 **The Powerful Open Source Global Rhythm Game Level Editing Toolkit (POSGRGLET for short. We dare you to pronounce it) made for power users and rhythm enthusiasts alike.**  
 A feature-rich level editing framework for rhythm games with support for:
@@ -16,24 +19,6 @@ A feature-rich level editing framework for rhythm games with support for:
 Built for developers, mappers, and tinkerers who demand precision and flexibility.
 
 **✅ This project is open-source! You can check out the repository [here](https://github.com/WinterBlox/syncra-engine)**
-
----
-
-### 🌐 rEboot
-**A 2D four-key downscroll rhythm game set inside the digital world of a computer.**  
-Brandish the waveform against your adversaries, experience what was once a thriving civilization, now brought to ashes by corruption, and unlock secrets buried deep within.
-Fast-paced action. A deep story. And a whole lot of binary funk.
-
-**🚫 This project is closed-source due to it being planned to have online features.**
-
----
-
-### 🌌 Desolation
-**A 2D exploration-focused RPG set in a vast, alien galaxy that’s just as hostile as it is beautiful.**  
-Wander worlds teeming with the unknown, where every pixel hides a secret and every shadow hungers for you.  
-Designed for those who like their adventures atmospheric, surreal, and a little bit haunting.
-
-**🚫 This project is closed-source due to it being planned to have online features.**
 
 ---
 
@@ -61,7 +46,7 @@ And we hate:
 
 We believe in clarity, *especially* when it comes to open and closed development. Thus:
 - All projects here will have their source availability explicitly declared.
-- Any commercial or closed-source projects will not have their store/download pages linked here. (you will have to search them yourself, sorry!)
+- What do we mean by 'source-available'? Essentially: source-available projects will have their source-code accessible, readable, probable, clonable, basically whatever, EXCEPT you won't be able to contribute to them. They are purely read-only.
 
 ## 🤵‍♂️ Interested in Joining Us?
 
