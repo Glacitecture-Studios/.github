@@ -20,16 +20,6 @@ Built for developers, mappers, and tinkerers who demand precision and flexibilit
 
 **✅ This project is open-source! You can check out the repository [here](https://github.com/WinterBlox/syncra-engine)**
 
----
-
-### :anchor: Drifted Souls *(Coming Soon)*
-**A 3D gritty roguelike adventure RPG set across an archipelago of danger and decay.**  
-Battle through cursed waters, uncover long-forgotten classes, and defy abominations crawling up from the realms below.
-
-Coming soon to your nightmares.
-
-**❔ This project will be source-available when we begin development.**
-
 ## :ice_cube: About Us
 
 We're Glacitecture Studios: explorers, programmers, and storytellers. Whether we're crafting high-precision toolkits or sculpting immersive worlds, we aim to make cool things that people care about.
@@ -46,7 +36,7 @@ And we hate:
 
 We believe in clarity, *especially* when it comes to open and closed development. Thus:
 - All projects here will have their source availability explicitly declared.
-- What do we mean by 'source-available'? Essentially: source-available projects will have their source-code accessible, readable, probable, clonable, basically whatever, EXCEPT you won't be able to contribute to them. They are purely read-only.
+- Closed-Source or Commercial Projects will not be listed here. Those can be found in our Discord, which is linked at the bottom.
 
 ## 🤵‍♂️ Interested in Joining Us?
 
