@@ -7,18 +7,7 @@
 > [!IMPORTANT]
 > Only open-source or source-available works of ours are listed here. Any closed-source or commercial works can be found in our Discord, which is linked at the bottom of this README file.
 
-### 🎵 Syncra Engine
-**The Powerful Open Source Global Rhythm Game Level Editing Toolkit (POSGRGLET for short. We dare you to pronounce it) made for power users and rhythm enthusiasts alike.**  
-A feature-rich level editing framework for rhythm games with support for:
-- Multi-difficulty charting
-- Custom event scripting
-- Timeline waveform editing
-- Real-time collaboration
-- Format export utilities
-
-Built for developers, mappers, and tinkerers who demand precision and flexibility.
-
-**✅ This project is open-source! You can check out the repository [here](https://github.com/WinterBlox/syncra-engine)**
+Currently we do not have any open-source projects that are public, but once we do, we'll be sure to put them here!
 
 ## :ice_cube: About Us
 
