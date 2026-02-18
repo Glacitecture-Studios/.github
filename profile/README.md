@@ -1,6 +1,6 @@
-# Glacitecture Studios
+# Arctail
 
-**Glacitecture Studios** is a small, recently-formed team of independent game and software developers. We specialize in building immersive gameplay experiences and powerful development tools, mostly in C# (we do dabble in GDScript though), and always with love and a touch of chaos.
+**Arctail** is a small, recently-formed team of independent game and software developers. We specialize in building immersive gameplay experiences and powerful development tools, mostly in C# (we do dabble in GDScript though), and always with love and a touch of chaos.
 
 ## :memo: Our Projects
 
@@ -11,7 +11,7 @@ Currently we do not have any open-source projects that are public, but once we d
 
 ## :ice_cube: About Us
 
-We're Glacitecture Studios: explorers, programmers, and storytellers. Whether we're crafting high-precision toolkits or sculpting immersive worlds, we aim to make cool things that people care about.
+We're Arctail: explorers, programmers, and storytellers. Whether we're crafting high-precision toolkits or sculpting immersive worlds, we aim to make cool things that people care about.
 
 We love:
 - Open-source software
