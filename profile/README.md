@@ -2,7 +2,7 @@
 
 **Arctail** is a small, recently-formed team of independent game and software developers. We specialize in building immersive gameplay experiences and powerful development tools, mostly in C# (we do dabble in GDScript though), and always with love and a touch of chaos.
 
-## :memo: Our Projects
+## Our Projects
 
 > [!IMPORTANT]
 > Only open-source or source-available works of ours are listed here. Any closed-source or commercial works can be found in our Discord, which is linked at the bottom of this README file.
@@ -13,21 +13,13 @@ Currently we do not have any open-source projects that are public, but once we d
 
 We're Arctail: explorers, programmers, and storytellers. Whether we're crafting high-precision toolkits or sculpting immersive worlds, we aim to make cool things that people care about.
 
-We love:
-- Open-source software
-- Deep game mechanics
-- Community collaboration
-
-And we hate:
-- Feature creep (but we do it anyway 😅)
-
-## ❗ Project Status & Transparency
+## Project Status & Transparency
 
 We believe in clarity, *especially* when it comes to open and closed development. Thus:
 - All projects here will have their source availability explicitly declared.
 - Closed-Source or Commercial Projects will not be listed here. Those can be found in our Discord, which is linked at the bottom.
 
-## 🤵‍♂️ Interested in Joining Us?
+## Interested in Joining Us?
 
 > [!IMPORTANT]
 > Please note that we make these games & tools for free and we do not have the funds to pay our developers (we started as a group of friends so that wasn't in our plan initially), therefore please treat this as volunteering.
@@ -46,8 +38,9 @@ We're currently **not accepting new developers**, but here’s what the process 
    We'll reach out to you once the application period is over if you were considered, and invite you to a casual chat so we can get to know each other. 
 
 4. **Welcome Aboard!**\
-   If all goes well, then you'll be on the team! 
-## 💬 Stay Connected
+   If all goes well, then you'll be on the team!
+   
+## Stay Connected
 
 We’re still setting up shop, but feel free to:
 - Watch our repos to follow development
